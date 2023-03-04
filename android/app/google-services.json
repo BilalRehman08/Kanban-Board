@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "898871786750",
+    "project_id": "kanbanflutter",
+    "storage_bucket": "kanbanflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898871786750:android:6cbf95272c2eed56a9b9af",
+        "android_client_info": {
+          "package_name": "com.example.kanban_board_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898871786750-0bunjtg770jod9ph2fmgul4tubouvp78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcRIDm7Q2iEP2doox0j2hAtL-0bJnvvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898871786750-0bunjtg770jod9ph2fmgul4tubouvp78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898871786750-8iv64808f5k0ehlrq8355itbqfqc2dtv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kanbanFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898871786750:android:7b9227629b0f593ca9b9af",
+        "android_client_info": {
+          "package_name": "com.example.kanban_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898871786750-0bunjtg770jod9ph2fmgul4tubouvp78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcRIDm7Q2iEP2doox0j2hAtL-0bJnvvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898871786750-0bunjtg770jod9ph2fmgul4tubouvp78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898871786750-8iv64808f5k0ehlrq8355itbqfqc2dtv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kanbanFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
